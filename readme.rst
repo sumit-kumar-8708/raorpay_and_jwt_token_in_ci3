@@ -13,11 +13,11 @@ Complete step-up step-by-step
 -  `Youtube link <https://www.youtube.com/watch?v=-4vkOZqSfPg&list=PLRvQJHX4HOd4hX3AZSarITf5zEY9XMX24>`_
 
 ###################
-Razorpay payment gateway Complete step-up step-by-step
+Razorpay payment gateway with SDK kit tools Complete step-up step-by-step
 ###################
 
--  `Youtube link <https://www.youtube.com/watch?v=qEivpORGqjE&t=11s>`_
--  `Youtube link <https://www.youtube.com/watch?v=xAGdtDHWLBM>`_
+-  `Youtube link part 1 <https://www.youtube.com/watch?v=qEivpORGqjE&t=11s>`_
+-  `Youtube link part 2 <https://www.youtube.com/watch?v=xAGdtDHWLBM>`_
 
 ###################
 What is CodeIgniter
