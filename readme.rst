@@ -1,4 +1,18 @@
 ###################
+JWT for login Authorization
+###################
+Step 1 : JWT_helper.php and verifyAuthToken_helper.php two file in helpers folder.
+Step 2 : Load two helpers in autoload.php or Auth_jwt.php controller file.
+Step 3 : Load model Jwt_user_model.php
+
+*********
+Complete step-up step-by-step
+*********
+
+-  `github link <https://github.com/AamirNawaz/Jwt-with-CI3>`_
+-  `Youtube link <https://www.youtube.com/watch?v=-4vkOZqSfPg&list=PLRvQJHX4HOd4hX3AZSarITf5zEY9XMX24>`_
+
+###################
 What is CodeIgniter
 ###################
 
