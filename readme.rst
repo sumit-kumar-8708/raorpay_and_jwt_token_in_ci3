@@ -1,4 +1,12 @@
 ###################
+https://upsc.gsscore.com/abl/auth/login ======(asifansari@basix.in  pas- 123)
+###################
+
+###################
+https://gsscore.com/ ======(sumit@basix.in  pas- 123456)
+###################
+
+###################
 JWT for login Authorization
 ###################
 - Step 1 : JWT_helper.php and verifyAuthToken_helper.php two file in helpers folder.
